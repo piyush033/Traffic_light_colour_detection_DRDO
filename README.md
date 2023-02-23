@@ -1,4 +1,9 @@
-# Traffic_light_colour_detection_DRDO
+# Traffic light colour detection
+
+
+# Code
+
+[my code](https://github.com/piyush033/Traffic_light_colour_detection_DRDO/blob/main/traffic_light_colour_detection_DRDO.ipynb)
 
 # Output
 
