@@ -5,7 +5,7 @@ In this project i used deep learning for classification pf colour of traffic lig
 
 ## Project Aim
 Build a Model which can identify the colour of the traffic light is it green red or yellow.
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/hob0Ow4ZoakAAAAM/traffic-light.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/hob0Ow4ZoakAAAAM/traffic-light.gif">
 ## Table of Content
 
 * [Overview of the Project]()
