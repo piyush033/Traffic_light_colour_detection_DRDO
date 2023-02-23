@@ -12,9 +12,9 @@ Build a Model which can identify the colour of the traffic light, is it green re
 * [Overview of the Project](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#overview-of-the-project)
 * [Project Aim](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#project-aim)
 * [Datasets Used](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#dataset-used)
-* [Frameworks Used]()
+* [Frameworks Used](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#framework-used)
 * [Code](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#code)
-* [Conclusion]()
+* [Conclusion](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#conclusion)
 * [Model Visualizations](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#model-visualizations)
 
 ## Dataset Used
