@@ -21,9 +21,14 @@ Build a Model which can identify the colour of the traffic light, is it green re
 
 I've used the [This Dataset](https://www.dropbox.com/s/vaniv8eqna89r20/alex-lechner-udacity-traffic-light-dataset.zip?dl=0) for training and testing but i've used some other images from google for the testing.
 
+## Framework Used
+
 ## Code
 
 [My code](https://github.com/piyush033/Traffic_light_colour_detection_DRDO/blob/main/traffic_light_colour_detection_DRDO.ipynb)
+
+## Conclusion
+
 
 ## Model Visualizations
 
