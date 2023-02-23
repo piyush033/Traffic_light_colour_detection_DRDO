@@ -1,20 +1,30 @@
 # Traffic light colour detection
 
+## Overview of the project
+In this project i used deep learning for classification pf colour of traffic light.
+
+## Project Aim
+Build a Model which can identify the colour of the traffic light is it green red or yellow.
+
 ## Table of Content
 
 * [Overview of the Project]()
-* [Problem Statement]()
+* [Project Aim]()
 * [Datasets Used]()
 * [Frameworks Used]()
-* [Face Recognition Data Dictionary]()
+* [Code]()
 * [Conclusion]()
 * [Model Visualizations]()
 
-# Code
+## Dataset Used
 
-[my code](https://github.com/piyush033/Traffic_light_colour_detection_DRDO/blob/main/traffic_light_colour_detection_DRDO.ipynb)
+I've used the [This Dataset](https://www.dropbox.com/s/vaniv8eqna89r20/alex-lechner-udacity-traffic-light-dataset.zip?dl=0) for training and testing but i've used some other images from google for the testing.
 
-# Output
+## Code
+
+[My code](https://github.com/piyush033/Traffic_light_colour_detection_DRDO/blob/main/traffic_light_colour_detection_DRDO.ipynb)
+
+## Model Visualizations
 
 ![image](https://user-images.githubusercontent.com/100412728/220909464-dc20b827-bcdb-4785-8448-e1dfbfde6e1e.png)
 
