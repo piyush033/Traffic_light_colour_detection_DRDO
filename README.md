@@ -1,5 +1,14 @@
 # Traffic light colour detection
 
+## Table of Content
+
+* [Overview of the Project]()
+* [Problem Statement]()
+* [Datasets Used]()
+* [Frameworks Used]()
+* [Face Recognition Data Dictionary]()
+* [Conclusion]()
+* [Model Visualizations]()
 
 # Code
 
