@@ -29,6 +29,7 @@ I've used the [This Dataset](https://www.dropbox.com/s/vaniv8eqna89r20/alex-lech
 
 ## Conclusion
 
+With the help of Deep learning I'll be able to find the colour of traffic light
 
 ## Model Visualizations
 
