@@ -43,4 +43,3 @@ With the help of Deep learning I'll be able to find the colour of traffic light
 
 ![image](https://user-images.githubusercontent.com/100412728/220913270-7b2ef698-f8a1-4893-8fce-9773bec9c63c.png)
 
-
