@@ -31,7 +31,7 @@ I've used the [This Dataset](https://www.dropbox.com/s/vaniv8eqna89r20/alex-lech
 
 [My code with DeepLearning](https://github.com/piyush033/Traffic_light_colour_detection_DRDO/blob/main/traffic_light_colour_detection_DRDO.ipynb)
 
-[Without deeplearning](https://github.com/piyush033/Traffic_light_colour_detection_DRDO/blob/main/Light_Classification_by_py.py)
+[Without DeepLearning](https://github.com/piyush033/Traffic_light_colour_detection_DRDO/blob/main/Light_Classification_by_py.py)
 
 ## Conclusion
 
