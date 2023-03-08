@@ -24,7 +24,12 @@ I've used the [This Dataset](https://www.dropbox.com/s/vaniv8eqna89r20/alex-lech
 ## Technology Used
 
 * Deep Learning
+* Tensorflow
 * CNN
+* Keras
+* Image Data Generator
+* Numpy
+* Matplotlib
 * Python
 
 ## Code
