@@ -32,12 +32,15 @@ And for the YOLO model i used [Dataset from Roboflow](https://universe.roboflow.
 * Numpy
 * Matplotlib
 * Python
+* YOLO V8
 
 ## Code
 
 * [My code with DeepLearning](https://github.com/piyush033/Traffic_light_colour_detection_DRDO/blob/main/traffic_light_colour_detection_DRDO.ipynb)
 
 * [Without DeepLearning](https://github.com/piyush033/Traffic_light_colour_detection_DRDO/blob/main/Light_Classification_by_py.py)
+
+* [With YOLO Model](https://github.com/piyush033/Traffic_light_colour_detection_DRDO/blob/main/Tf_detect.ipynb)
 
 ## Conclusion
 
