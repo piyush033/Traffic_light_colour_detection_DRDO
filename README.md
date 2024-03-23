@@ -1,7 +1,7 @@
 # Traffic light colour detection
 
 ## Overview of the project
-In this project I used deep learning for colour classification of traffic light.
+In this project I used Yolo v8 for traffic light and it's colour prediction and implemented in a real world environment.
 
 ## Project Aim
 Build a Model which can identify the colour of the traffic light, is it green red or yellow.
